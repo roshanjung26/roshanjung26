@@ -1,8 +1,7 @@
 ![logo](https://github.com/roshanjung26/roshanjung26/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Tilak Bahadur Karki</h1>
 <h3 align="center">A passionate full stack PHP Laravel developer from Gandaki, Nepal</h3>
-<img align="right" alt="coding" src="![image](https://github.com/roshanjung26/roshanjung26/assets/152834899/0b55041b-ff3c-45ba-81ba-69bc115081c1)
-">
+<img align="right" alt="coding" src="![image](https://github.com/roshanjung26/roshanjung26/assets/152834899/7d0c54f0-99ca-4210-8d08-15e9bc9bba49)">
 
 
 
